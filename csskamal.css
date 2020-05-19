@@ -1,0 +1,154 @@
+@font-face {
+    font-family: 'shine';
+    src: url('./Fuentes/Brightly\ Crush\ Shine.otf');
+} 
+ 
+@font-face {
+    font-family: 'urban';
+    src: url('./Fuentes/UrbanJungleDEMO.otf');
+} 
+@font-face {
+    font-family: 'shine';
+    src: url('./Fuentes/Brightly Crush Shine.otf');
+}     
+body{
+    background-image: url(./img/gif\ logo.gif);
+    background-repeat: no-repeat;
+    background-position-x: left;
+    background-size: 12em;
+    background-color: thistle;
+}
+
+/*ul*/
+.lista1{
+   
+    list-style: none;  
+}
+.lista1>li{
+   font-weight: bold; 
+   padding-top: 1%;
+}
+
+ul{
+    list-style: none;   
+}
+h1{
+    color: red;
+    font-family: shine;
+    font-size: 2em;
+}
+header{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 8%;
+    color: red;    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin-top:5%;
+    color: blue;
+    font-weight: bold;
+}
+
+.lista2{
+    display:flex;
+    list-style: none;  
+}
+.lista2>li{
+    margin-right: 80%;
+    font-weight: bold; 
+}
+ img{
+    margin-top: 5%;
+    width: 30%;
+ }
+ /*Le he dado clase dado que preeveo que puede haber algun otro iframe*/
+.iframe1{
+    width: 1100px;
+    height: 500px;
+}
+.ofertas{
+    color: red;
+    font-family: urban; 
+    font-size: 4em; 
+    margin-left: 20%;
+}
+
+/*ICONOS*/
+.fa {
+    padding: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+  
+  
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+  
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+  
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+.iconos{
+    padding-top: 10%;
+    margin-left:30%;
+}
+/*FIN ICONOS*/
+/*Formulario*/
+form{
+    display: flex; 
+}
+
+.label{
+    margin-left: 25%;
+}
+
+.input{
+    margin-right: 60%;
+    margin-left: 8%;
+    margin-top: 1%;
+    
+}
+.fech{
+    margin-bottom: 10%;
+}
+.label>label{
+    display: flex;
+    padding-top: 24px;
+}
+
+.input>input{
+    margin-top: 14px;
+    border-radius: 20px;
+    margin-top: 10%;
+}
+
+.enviar{
+    margin-left: 85%;
+    margin-top:10%;
+    padding: 10% 10%;
+}
+.reset{
+    margin-top:15%;
+    margin-left: 85%;
+}
+
+
+/*FIN FORMULARIO*/
