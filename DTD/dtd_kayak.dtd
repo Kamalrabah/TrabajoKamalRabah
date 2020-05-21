@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD generado con XMLSpy v2020 rel. 2 (x64) (http://www.altova.com) -->
+<!ELEMENT loc (#PCDATA)>
+<!ELEMENT lastmod (#PCDATA)>
+<!ELEMENT sitemap (loc, lastmod)>
+<!ELEMENT sitemapindex (sitemap+)>
+<!ATTLIST sitemapindex
+	xmlns CDATA #FIXED "http://www.google.com/schemas/sitemap/0.9"
+>

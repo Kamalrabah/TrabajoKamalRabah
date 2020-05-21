@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD generado con XMLSpy v2020 rel. 2 (x64) (http://www.altova.com) -->
+<!ELEMENT osm (relation)>
+<!ATTLIST osm
+	version CDATA #FIXED "0.6"
+	generator CDATA #FIXED "CGImap 0.8.2 (4413 thorn-01.openstreetmap.org)"
+	copyright CDATA #FIXED "OpenStreetMap and contributors"
+	attribution CDATA #FIXED "http://www.openstreetmap.org/copyright"
+	license CDATA #FIXED "http://opendatacommons.org/licenses/odbl/1-0/"
+>
+<!ELEMENT tag EMPTY>
+<!ATTLIST tag
+	k (ISO3166-1 | ISO3166-1:alpha2 | ISO3166-1:alpha3 | ISO3166-1:numeric | admin_level | alt_name:it | alt_name:pt | boundary | driving_side | flag | is_in:continent | name | name:af | name:am | name:an | name:ar | name:az | name:be | name:bg | name:bm | name:bn | name:bo | name:br | name:bs | name:ca | name:ce | name:cs | name:cv | name:cy | name:da | name:de | name:dv | name:el | name:en | name:eo | name:es | name:et | name:eu | name:fa | name:fi | name:fo | name:fr | name:fy | name:ga | name:gd | name:gl | name:gv | name:he | name:hi | name:hr | name:ht | name:hu | name:ia | name:id | name:ie | name:io | name:is | name:it | name:ja | name:jbo | name:jv | name:ka | name:kg | name:kk | name:kn | name:ko | name:ku | name:kw | name:la | name:lb | name:li | name:ln | name:lt | name:lv | name:mg | name:mk | name:ml | name:mr | name:ms | name:mt | name:my | name:nl | name:nn | name:no | name:nv | name:oc | name:or | name:os | name:pa | name:pl | name:ps | name:pt | name:qu | name:rm | name:ro | name:ru | name:rw | name:sa | name:sc | name:se | name:sg | name:sk | name:sl | name:sn | name:so | name:sq | name:sr | name:ss | name:su | name:sv | name:sw | name:ta | name:tg | name:th | name:tk | name:tl | name:tr | name:ts | name:tt | name:tzl | name:ug | name:uk | name:ur | name:uz | name:vi | name:vls | name:vo | name:wo | name:yo | name:zh | name:zu | official_name:cs | timezone | type | wikidata | wikipedia) #REQUIRED
+	v CDATA #REQUIRED
+>
+<!ELEMENT member EMPTY>
+<!ATTLIST member
+	type (node | way) #REQUIRED
+	ref (269357393 | 424298277 | 4547527878 | 53548367 | 53548368 | 53548369 | 53548376 | 53548377 | 53548379 | 53548381 | 98508793) #REQUIRED
+	role (admin_centre | label | outer) #REQUIRED
+>
+<!ELEMENT relation (member+, tag+)>
+<!ATTLIST relation
+	id CDATA #FIXED "536765"
+	visible CDATA #FIXED "true"
+	version CDATA #FIXED "28"
+	changeset CDATA #FIXED "79130450"
+	timestamp CDATA #FIXED "2020-01-02T21:01:31Z"
+	user CDATA #FIXED "SomeoneElse_Revert"
+	uid CDATA #FIXED "1778799"
+>

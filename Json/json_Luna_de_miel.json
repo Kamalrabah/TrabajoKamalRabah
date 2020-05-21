@@ -1,0 +1,66 @@
+{
+	"Luna_de_miel": {
+		"lugar": [
+			{
+				"@viaje": 1,
+				"Destino": "ISLAS MAURICIO",
+				"Hotel": "../img/hotel_mauricio.svg",
+				"fotografia": "../img/islas_mauricio.svg"
+			},
+			{
+				"@viaje": 2,
+				"Destino": "MALDIVAS",
+				"Hotel": "../img/hotel_maldivas.svg",
+				"fotografia": "../img/maldivas.svg"
+			},
+			{
+				"@viaje": 3,
+				"Destino": "FIJI",
+				"Hotel": "../img/hotel_fiji.svg",
+				"fotografia": "../img/fiji.svg"
+			},
+			{
+				"@viaje": 4,
+				"Destino": "SEYCHELLES",
+				"Hotel": "../img/hotel_seychelles.svg",
+				"fotografia": "../img/sychells.svg"
+			},
+			{
+				"@viaje": 5,
+				"Destino": "POLINESIA FRANCESA",
+				"Hotel": "../img/hotel_polinesia-francesa.svg",
+				"fotografia": "../img/polinesia-francesa.svg"
+			},
+			{
+				"@viaje": 6,
+				"Destino": "ISLAS TURCAS Y CAICOS",
+				"Hotel": "../img/hotel_islas_turcas.svg",
+				"fotografia": "../img/Islas-Turcas-y-Caicos2.svg"
+			},
+			{
+				"@viaje": 7,
+				"Destino": "ISLAS COOK",
+				"Hotel": "../img/hotel_islas_cook.svg",
+				"fotografia": "../img/islas_cook.svg"
+			},
+			{
+				"@viaje": 8,
+				"Destino": "BALI",
+				"Hotel": "../img/hotel_bali.svg",
+				"fotografia": "../img/bali.svg"
+			},
+			{
+				"@viaje": 9,
+				"Destino": "BAHAMAS",
+				"Hotel": "../img/hotel_bahamas.svg",
+				"fotografia": "../img/bahamas2.svg"
+			},
+			{
+				"@viaje": 10,
+				"Destino": "PHUKET",
+				"Hotel": "../img/hotel_phuket.svg",
+				"fotografia": "../img/phuket.svg"
+			}
+		]
+	}
+}

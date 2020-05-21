@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Luna_de_miel SYSTEM "..\DTD\dtd_luna_miel.dtd">
+<?xml-stylesheet type="text/xsl" href="..\xsl\xsl_lunamiel.xsl"?>
+<Luna_de_miel>
+	<lugar viaje="1">
+		<Destino>ISLAS MAURICIO</Destino>
+		<Hotel>../img/hotel_mauricio.svg</Hotel>
+		<fotografia>../img/islas_mauricio.svg</fotografia>
+	</lugar>
+	<lugar viaje="2">
+		<Destino>MALDIVAS</Destino>
+		<Hotel>../img/hotel_maldivas.svg</Hotel>
+		<fotografia>../img/maldivas.svg</fotografia>
+	</lugar>
+	<lugar viaje="3">
+		<Destino>FIJI</Destino>
+		<Hotel>../img/hotel_fiji.svg</Hotel>
+		<fotografia>../img/fiji.svg</fotografia>
+	</lugar>
+	<lugar viaje="4">
+		<Destino>SEYCHELLES</Destino>
+		<Hotel>../img/hotel_seychelles.svg</Hotel>
+		<fotografia>../img/sychells.svg</fotografia>
+	</lugar>
+	<lugar viaje="5">
+		<Destino>POLINESIA FRANCESA</Destino>
+		<Hotel>../img/hotel_polinesia-francesa.svg</Hotel>
+		<fotografia>../img/polinesia-francesa.svg</fotografia>
+	</lugar>
+	<lugar viaje="6">
+		<Destino>ISLAS TURCAS Y CAICOS</Destino>
+		<Hotel>../img/hotel_islas_turcas.svg</Hotel>
+		<fotografia>../img/Islas-Turcas-y-Caicos2.svg</fotografia>
+	</lugar>
+	<lugar viaje="7">
+		<Destino>ISLAS COOK</Destino>
+		<Hotel>../img/hotel_islas_cook.svg</Hotel>
+		<fotografia>../img/islas_cook.svg</fotografia>
+	</lugar>
+	<lugar viaje="8">
+		<Destino>BALI</Destino>
+		<Hotel>../img/hotel_bali.svg</Hotel>
+		<fotografia>../img/bali.svg</fotografia>
+	</lugar>
+	<lugar viaje="9">
+		<Destino>BAHAMAS</Destino>
+		<Hotel>../img/hotel_bahamas.svg</Hotel>
+		<fotografia>../img/bahamas2.svg</fotografia>
+	</lugar>
+	<lugar viaje="10">
+		<Destino>PHUKET</Destino>
+		<Hotel>../img/hotel_phuket.svg</Hotel>
+		<fotografia>../img/phuket.svg</fotografia>
+	</lugar>
+</Luna_de_miel>

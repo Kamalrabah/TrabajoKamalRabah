@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE osm SYSTEM "..\DTD\dtd_openst.dtd">
+<osm version="0.6" generator="CGImap 0.8.2 (4413 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+	<relation id="536765" visible="true" version="28" changeset="79130450" timestamp="2020-01-02T21:01:31Z" 		user="SomeoneElse_Revert" uid="1778799">
+		<member type="way" ref="269357393" role="outer"/>
+		<member type="way" ref="53548368" role="outer"/>
+		<member type="way" ref="53548376" role="outer"/>
+		<member type="way" ref="53548377" role="outer"/>
+		<member type="way" ref="53548379" role="outer"/>
+		<member type="way" ref="53548367" role="outer"/>
+		<member type="way" ref="53548369" role="outer"/>
+		<member type="way" ref="53548381" role="outer"/>
+		<member type="way" ref="98508793" role="outer"/>
+		<member type="node" ref="424298277" role="label"/>
+		<member type="node" ref="4547527878" role="admin_centre"/>
+		<tag k="admin_level" v="2"/>
+		<tag k="alt_name:it" v="Seicelle"/>
+		<tag k="alt_name:pt" v="Seicheles"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="driving_side" v="left"/>
+		<tag k="flag" v="http://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"/>
+		<tag k="is_in:continent" v="Africa"/>
+		<tag k="ISO3166-1" v="SC"/>
+		<tag k="ISO3166-1:alpha2" v="SC"/>
+		<tag k="ISO3166-1:alpha3" v="SYC"/>
+		<tag k="ISO3166-1:numeric" v="690"/>
+		<tag k="name" v="Sesel"/>
+		<tag k="name:af" v="Seychelle"/>
+		<tag k="name:am" v="ሲሸልስ"/>
+		<tag k="name:an" v="Seychelles"/>
+		<tag k="name:ar" v="سيشيل"/>
+		<tag k="name:az" v="Seyşel adaları"/>
+		<tag k="name:be" v="Сейшэльскія Астравы"/>
+		<tag k="name:bg" v="Сейшели"/>
+		<tag k="name:bm" v="Seshel"/>
+		<tag k="name:bn" v="সেশেল"/>
+		<tag k="name:bo" v="སེ་ཞེལ།"/>
+		<tag k="name:br" v="Sechelez"/>
+		<tag k="name:bs" v="Sejšeli"/>
+		<tag k="name:ca" v="Seychelles"/>
+		<tag k="name:ce" v="Сейшелан гlайреш"/>
+		<tag k="name:cs" v="Seychely"/>
+		<tag k="name:cv" v="Сейшел утравĕсем"/>
+		<tag k="name:cy" v="Seychelles"/>
+		<tag k="name:da" v="Seychellerne"/>
+		<tag k="name:de" v="Seychellen"/>
+		<tag k="name:dv" v="ތޭންގަދީބު"/>
+		<tag k="name:el" v="Σεϋχέλλες"/>
+		<tag k="name:en" v="Seychelles"/>
+		<tag k="name:eo" v="Sejŝeloj"/>
+		<tag k="name:es" v="Seychelles"/>
+		<tag k="name:et" v="Seišellid"/>
+		<tag k="name:eu" v="Seychelleak"/>
+		<tag k="name:fa" v="سیشل"/>
+		<tag k="name:fi" v="Seychellit"/>
+		<tag k="name:fo" v="Seyskelloyggjar"/>
+		<tag k="name:fr" v="Seychelles"/>
+		<tag k="name:fy" v="Seysjellen"/>
+		<tag k="name:ga" v="Na Séiséil"/>
+		<tag k="name:gd" v="Na h-Eileanan Sheiseall"/>
+		<tag k="name:gl" v="Seixeles - Seychelles"/>
+		<tag k="name:gv" v="Ny h-Ellanyn Heshell"/>
+		<tag k="name:he" v="סיישל"/>
+		<tag k="name:hi" v="सेशेल्स"/>
+		<tag k="name:hr" v="Sejšeli"/>
+		<tag k="name:ht" v="Sechèl"/>
+		<tag k="name:hu" v="Seychelle-szigetek"/>
+		<tag k="name:ia" v="Seychelles"/>
+		<tag k="name:id" v="Seychelles"/>
+		<tag k="name:ie" v="Seychelles"/>
+		<tag k="name:io" v="Seycheli"/>
+		<tag k="name:is" v="Seychelles-eyjar"/>
+		<tag k="name:it" v="Seychelles"/>
+		<tag k="name:ja" v="セーシェル"/>
+		<tag k="name:jbo" v="secel"/>
+		<tag k="name:jv" v="Seychelles"/>
+		<tag k="name:ka" v="სეიშელის კუნძულები"/>
+		<tag k="name:kg" v="Seychell"/>
+		<tag k="name:kk" v="Сейшель Аралдары"/>
+		<tag k="name:kn" v="ಸೆಶೆಲ್ಸ್"/>
+		<tag k="name:ko" v="세이셸"/>
+		<tag k="name:ku" v="Seyşel"/>
+		<tag k="name:kw" v="Seychellys"/>
+		<tag k="name:la" v="Insulae Seisellenses"/>
+		<tag k="name:lb" v="Seychellen"/>
+		<tag k="name:li" v="Seychelle"/>
+		<tag k="name:ln" v="Seyshel"/>
+		<tag k="name:lt" v="Seišeliai"/>
+		<tag k="name:lv" v="Seišelas"/>
+		<tag k="name:mg" v="Seychelles"/>
+		<tag k="name:mk" v="Сејшели"/>
+		<tag k="name:ml" v="സെയ്‌ഷെൽസ്"/>
+		<tag k="name:mr" v="सेशेल्स"/>
+		<tag k="name:ms" v="Seychelles"/>
+		<tag k="name:mt" v="Seychelles"/>
+		<tag k="name:my" v="ဆေးရှဲနိုင်ငံ"/>
+		<tag k="name:nl" v="Seychellen"/>
+		<tag k="name:nn" v="Seychellane"/>
+		<tag k="name:no" v="Seychellene"/>
+		<tag k="name:nv" v="Seishel"/>
+		<tag k="name:oc" v="Seichèlas"/>
+		<tag k="name:or" v="ସେସେଲଜ"/>
+		<tag k="name:os" v="Сейшелтæ"/>
+		<tag k="name:pa" v="ਸੇਸ਼ੈਲ"/>
+		<tag k="name:pl" v="Seszele"/>
+		<tag k="name:ps" v="سیشل"/>
+		<tag k="name:pt" v="Seychelles"/>
+		<tag k="name:qu" v="Sichillakuna"/>
+		<tag k="name:rm" v="Seychellas"/>
+		<tag k="name:ro" v="Seychelles"/>
+		<tag k="name:ru" v="Сейшелы"/>
+		<tag k="name:rw" v="Seyishele"/>
+		<tag k="name:sa" v="सेशेल"/>
+		<tag k="name:sc" v="Seychelles"/>
+		<tag k="name:se" v="Seychellsullot"/>
+		<tag k="name:sg" v="Sëyshêle"/>
+		<tag k="name:sk" v="Seychely"/>
+		<tag k="name:sl" v="Sejšeli"/>
+		<tag k="name:sn" v="Seychelles"/>
+		<tag k="name:so" v="Seyshelles"/>
+		<tag k="name:sq" v="Sejshellet"/>
+		<tag k="name:sr" v="Сејшели"/>
+		<tag k="name:ss" v="ISeyishelesi"/>
+		<tag k="name:su" v="Seychéll"/>
+		<tag k="name:sv" v="Seychellerna"/>
+		<tag k="name:sw" v="Shelisheli"/>
+		<tag k="name:ta" v="சீசெல்சு"/>
+		<tag k="name:tg" v="Ҷазираҳои Сейшел"/>
+		<tag k="name:th" v="ประเทศเซเชลส์"/>
+		<tag k="name:tk" v="Seýşel Adalary"/>
+		<tag k="name:tl" v="Seyshels"/>
+		<tag k="name:tr" v="Seyşeller"/>
+		<tag k="name:ts" v="Seychelles"/>
+		<tag k="name:tt" v="Сейшел утраулары"/>
+		<tag k="name:tzl" v="Seiceadías"/>
+		<tag k="name:ug" v="سېيشېل ئاراللىرى"/>
+		<tag k="name:uk" v="Сейшельські Острови"/>
+		<tag k="name:ur" v="سیچیلیس"/>
+		<tag k="name:uz" v="Seyshell orollari"/>
+		<tag k="name:vi" v="Seychelles"/>
+		<tag k="name:vls" v="Seychelln"/>
+		<tag k="name:vo" v="Säceluäns"/>
+		<tag k="name:wo" v="Seysel"/>
+		<tag k="name:yo" v="Ṣèíhẹ́lẹ́sì"/>
+		<tag k="name:zh" v="塞舌尔"/>
+		<tag k="name:zu" v="IsiSeyisheli"/>
+		<tag k="official_name:cs" v="Seychelská republika"/>
+		<tag k="timezone" v="Indian/Mahe"/>
+		<tag k="type" v="boundary"/>
+		<tag k="wikidata" v="Q1042"/>
+		<tag k="wikipedia" v="en:Seychelles"/>
+	</relation>
+</osm>
