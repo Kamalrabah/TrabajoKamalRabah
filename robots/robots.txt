@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: 
+Disallow: /audio
+Disallow: /recursos
+Disallow: /Fuentes
+Disallow: /img
+
+Sitemap: https://github.com/Kamalrabah/TrabajoKamalRabah
