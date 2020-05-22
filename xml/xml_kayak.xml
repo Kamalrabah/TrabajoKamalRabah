@@ -1,249 +1,251 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitemapindex SYSTEM "..\DTD\dtd_kayak.dtd">
+<?xml-stylesheet type="text/xsl" href="..\xsl\xsl_kayak.xsl"?>
 <sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.9">
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-broad-region_country.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-flight_static-airport_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-flight_static-airline_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-venue_event.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_landmark.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_neighborhood.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-broad-region_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-packagetour_static-city-vacations_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_static-country-cars_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_static-airport-cars_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_static-cars-sitemap_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_frontdoor_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-guide_frontdoor_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-main_frontdoor_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-packagetour_frontdoor_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-venue_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_frontdoor_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-trip_frontdoor_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_airport.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-flight_static-top-routes_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-corporate_unknown_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-flight_static-airline-list_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_static-city-cars_car-type.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-guide_static-city-guide_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_static-agency-location_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-flight_static-flight-route_cabin-class.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_video.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_static-countrygroup-cars_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown1.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown2.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown3.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown4.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_hotel-theme_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_static-city-cars_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_accomodation.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-hotel_static-broad-region_region.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-flight_frontdoor_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-car_static-region-cars_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
-<sitemap>
-<loc>
-https://www.kayak.es/seo/s2/kayak-es-flight_static-flight-route_unknown.xml.gz
-</loc>
-<lastmod>2020-05-20T10:02:12-04:00</lastmod>
-</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-broad-region_country.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-flight_static-airport_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-flight_static-airline_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-venue_event.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_landmark.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_neighborhood.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-broad-region_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-packagetour_static-city-vacations_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_static-country-cars_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_static-airport-cars_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_static-cars-sitemap_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_frontdoor_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-guide_frontdoor_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-main_frontdoor_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-packagetour_frontdoor_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-venue_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_frontdoor_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-trip_frontdoor_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_airport.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-flight_static-top-routes_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-corporate_unknown_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-flight_static-airline-list_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_static-city-cars_car-type.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-guide_static-city-guide_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_static-agency-location_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-flight_static-flight-route_cabin-class.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_video.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_static-countrygroup-cars_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown1.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown2.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown3.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-hotel-detail_unknown4.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_hotel-theme_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_static-city-cars_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-city-hotels_accomodation.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-hotel_static-broad-region_region.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-flight_frontdoor_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-car_static-region-cars_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>
+		https://www.kayak.es/seo/s2/kayak-es-flight_static-flight-route_unknown.xml.gz
+		</loc>
+		<lastmod>2020-05-20T10:02:12-04:00</lastmod>
+	</sitemap>
 </sitemapindex>

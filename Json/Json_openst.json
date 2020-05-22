@@ -1,0 +1,621 @@
+{
+	"osm": {
+		"@version": 0.6,
+		"@generator": "CGImap 0.8.2 (4413 thorn-01.openstreetmap.org)",
+		"@copyright": "OpenStreetMap and contributors",
+		"@attribution": "http://www.openstreetmap.org/copyright",
+		"@license": "http://opendatacommons.org/licenses/odbl/1-0/",
+		"relation": {
+			"@id": 536765,
+			"@visible": "true",
+			"@version": 28,
+			"@changeset": 79130450,
+			"@timestamp": "2020-01-02T21:01:31Z",
+			"@user": "SomeoneElse_Revert",
+			"@uid": 1778799,
+			"member": [
+				{
+					"@type": "way",
+					"@ref": 269357393,
+					"@role": "outer"
+				},
+				{
+					"@type": "way",
+					"@ref": 53548368,
+					"@role": "outer"
+				},
+				{
+					"@type": "way",
+					"@ref": 53548376,
+					"@role": "outer"
+				},
+				{
+					"@type": "way",
+					"@ref": 53548377,
+					"@role": "outer"
+				},
+				{
+					"@type": "way",
+					"@ref": 53548379,
+					"@role": "outer"
+				},
+				{
+					"@type": "way",
+					"@ref": 53548367,
+					"@role": "outer"
+				},
+				{
+					"@type": "way",
+					"@ref": 53548369,
+					"@role": "outer"
+				},
+				{
+					"@type": "way",
+					"@ref": 53548381,
+					"@role": "outer"
+				},
+				{
+					"@type": "way",
+					"@ref": 98508793,
+					"@role": "outer"
+				},
+				{
+					"@type": "node",
+					"@ref": 424298277,
+					"@role": "label"
+				},
+				{
+					"@type": "node",
+					"@ref": 4547527878,
+					"@role": "admin_centre"
+				}
+			],
+			"tag": [
+				{
+					"@k": "admin_level",
+					"@v": 2
+				},
+				{
+					"@k": "alt_name:it",
+					"@v": "Seicelle"
+				},
+				{
+					"@k": "alt_name:pt",
+					"@v": "Seicheles"
+				},
+				{
+					"@k": "boundary",
+					"@v": "administrative"
+				},
+				{
+					"@k": "driving_side",
+					"@v": "left"
+				},
+				{
+					"@k": "flag",
+					"@v": "http://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+				},
+				{
+					"@k": "is_in:continent",
+					"@v": "Africa"
+				},
+				{
+					"@k": "ISO3166-1",
+					"@v": "SC"
+				},
+				{
+					"@k": "ISO3166-1:alpha2",
+					"@v": "SC"
+				},
+				{
+					"@k": "ISO3166-1:alpha3",
+					"@v": "SYC"
+				},
+				{
+					"@k": "ISO3166-1:numeric",
+					"@v": 690
+				},
+				{
+					"@k": "name",
+					"@v": "Sesel"
+				},
+				{
+					"@k": "name:af",
+					"@v": "Seychelle"
+				},
+				{
+					"@k": "name:am",
+					"@v": "ሲሸልስ"
+				},
+				{
+					"@k": "name:an",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:ar",
+					"@v": "سيشيل"
+				},
+				{
+					"@k": "name:az",
+					"@v": "Seyşel adaları"
+				},
+				{
+					"@k": "name:be",
+					"@v": "Сейшэльскія Астравы"
+				},
+				{
+					"@k": "name:bg",
+					"@v": "Сейшели"
+				},
+				{
+					"@k": "name:bm",
+					"@v": "Seshel"
+				},
+				{
+					"@k": "name:bn",
+					"@v": "সেশেল"
+				},
+				{
+					"@k": "name:bo",
+					"@v": "སེ་ཞེལ།"
+				},
+				{
+					"@k": "name:br",
+					"@v": "Sechelez"
+				},
+				{
+					"@k": "name:bs",
+					"@v": "Sejšeli"
+				},
+				{
+					"@k": "name:ca",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:ce",
+					"@v": "Сейшелан гlайреш"
+				},
+				{
+					"@k": "name:cs",
+					"@v": "Seychely"
+				},
+				{
+					"@k": "name:cv",
+					"@v": "Сейшел утравĕсем"
+				},
+				{
+					"@k": "name:cy",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:da",
+					"@v": "Seychellerne"
+				},
+				{
+					"@k": "name:de",
+					"@v": "Seychellen"
+				},
+				{
+					"@k": "name:dv",
+					"@v": "ތޭންގަދީބު"
+				},
+				{
+					"@k": "name:el",
+					"@v": "Σεϋχέλλες"
+				},
+				{
+					"@k": "name:en",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:eo",
+					"@v": "Sejŝeloj"
+				},
+				{
+					"@k": "name:es",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:et",
+					"@v": "Seišellid"
+				},
+				{
+					"@k": "name:eu",
+					"@v": "Seychelleak"
+				},
+				{
+					"@k": "name:fa",
+					"@v": "سیشل"
+				},
+				{
+					"@k": "name:fi",
+					"@v": "Seychellit"
+				},
+				{
+					"@k": "name:fo",
+					"@v": "Seyskelloyggjar"
+				},
+				{
+					"@k": "name:fr",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:fy",
+					"@v": "Seysjellen"
+				},
+				{
+					"@k": "name:ga",
+					"@v": "Na Séiséil"
+				},
+				{
+					"@k": "name:gd",
+					"@v": "Na h-Eileanan Sheiseall"
+				},
+				{
+					"@k": "name:gl",
+					"@v": "Seixeles - Seychelles"
+				},
+				{
+					"@k": "name:gv",
+					"@v": "Ny h-Ellanyn Heshell"
+				},
+				{
+					"@k": "name:he",
+					"@v": "סיישל"
+				},
+				{
+					"@k": "name:hi",
+					"@v": "सेशेल्स"
+				},
+				{
+					"@k": "name:hr",
+					"@v": "Sejšeli"
+				},
+				{
+					"@k": "name:ht",
+					"@v": "Sechèl"
+				},
+				{
+					"@k": "name:hu",
+					"@v": "Seychelle-szigetek"
+				},
+				{
+					"@k": "name:ia",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:id",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:ie",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:io",
+					"@v": "Seycheli"
+				},
+				{
+					"@k": "name:is",
+					"@v": "Seychelles-eyjar"
+				},
+				{
+					"@k": "name:it",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:ja",
+					"@v": "セーシェル"
+				},
+				{
+					"@k": "name:jbo",
+					"@v": "secel"
+				},
+				{
+					"@k": "name:jv",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:ka",
+					"@v": "სეიშელის კუნძულები"
+				},
+				{
+					"@k": "name:kg",
+					"@v": "Seychell"
+				},
+				{
+					"@k": "name:kk",
+					"@v": "Сейшель Аралдары"
+				},
+				{
+					"@k": "name:kn",
+					"@v": "ಸೆಶೆಲ್ಸ್"
+				},
+				{
+					"@k": "name:ko",
+					"@v": "세이셸"
+				},
+				{
+					"@k": "name:ku",
+					"@v": "Seyşel"
+				},
+				{
+					"@k": "name:kw",
+					"@v": "Seychellys"
+				},
+				{
+					"@k": "name:la",
+					"@v": "Insulae Seisellenses"
+				},
+				{
+					"@k": "name:lb",
+					"@v": "Seychellen"
+				},
+				{
+					"@k": "name:li",
+					"@v": "Seychelle"
+				},
+				{
+					"@k": "name:ln",
+					"@v": "Seyshel"
+				},
+				{
+					"@k": "name:lt",
+					"@v": "Seišeliai"
+				},
+				{
+					"@k": "name:lv",
+					"@v": "Seišelas"
+				},
+				{
+					"@k": "name:mg",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:mk",
+					"@v": "Сејшели"
+				},
+				{
+					"@k": "name:ml",
+					"@v": "സെയ്‌ഷെൽസ്"
+				},
+				{
+					"@k": "name:mr",
+					"@v": "सेशेल्स"
+				},
+				{
+					"@k": "name:ms",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:mt",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:my",
+					"@v": "ဆေးရှဲနိုင်ငံ"
+				},
+				{
+					"@k": "name:nl",
+					"@v": "Seychellen"
+				},
+				{
+					"@k": "name:nn",
+					"@v": "Seychellane"
+				},
+				{
+					"@k": "name:no",
+					"@v": "Seychellene"
+				},
+				{
+					"@k": "name:nv",
+					"@v": "Seishel"
+				},
+				{
+					"@k": "name:oc",
+					"@v": "Seichèlas"
+				},
+				{
+					"@k": "name:or",
+					"@v": "ସେସେଲଜ"
+				},
+				{
+					"@k": "name:os",
+					"@v": "Сейшелтæ"
+				},
+				{
+					"@k": "name:pa",
+					"@v": "ਸੇਸ਼ੈਲ"
+				},
+				{
+					"@k": "name:pl",
+					"@v": "Seszele"
+				},
+				{
+					"@k": "name:ps",
+					"@v": "سیشل"
+				},
+				{
+					"@k": "name:pt",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:qu",
+					"@v": "Sichillakuna"
+				},
+				{
+					"@k": "name:rm",
+					"@v": "Seychellas"
+				},
+				{
+					"@k": "name:ro",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:ru",
+					"@v": "Сейшелы"
+				},
+				{
+					"@k": "name:rw",
+					"@v": "Seyishele"
+				},
+				{
+					"@k": "name:sa",
+					"@v": "सेशेल"
+				},
+				{
+					"@k": "name:sc",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:se",
+					"@v": "Seychellsullot"
+				},
+				{
+					"@k": "name:sg",
+					"@v": "Sëyshêle"
+				},
+				{
+					"@k": "name:sk",
+					"@v": "Seychely"
+				},
+				{
+					"@k": "name:sl",
+					"@v": "Sejšeli"
+				},
+				{
+					"@k": "name:sn",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:so",
+					"@v": "Seyshelles"
+				},
+				{
+					"@k": "name:sq",
+					"@v": "Sejshellet"
+				},
+				{
+					"@k": "name:sr",
+					"@v": "Сејшели"
+				},
+				{
+					"@k": "name:ss",
+					"@v": "ISeyishelesi"
+				},
+				{
+					"@k": "name:su",
+					"@v": "Seychéll"
+				},
+				{
+					"@k": "name:sv",
+					"@v": "Seychellerna"
+				},
+				{
+					"@k": "name:sw",
+					"@v": "Shelisheli"
+				},
+				{
+					"@k": "name:ta",
+					"@v": "சீசெல்சு"
+				},
+				{
+					"@k": "name:tg",
+					"@v": "Ҷазираҳои Сейшел"
+				},
+				{
+					"@k": "name:th",
+					"@v": "ประเทศเซเชลส์"
+				},
+				{
+					"@k": "name:tk",
+					"@v": "Seýşel Adalary"
+				},
+				{
+					"@k": "name:tl",
+					"@v": "Seyshels"
+				},
+				{
+					"@k": "name:tr",
+					"@v": "Seyşeller"
+				},
+				{
+					"@k": "name:ts",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:tt",
+					"@v": "Сейшел утраулары"
+				},
+				{
+					"@k": "name:tzl",
+					"@v": "Seiceadías"
+				},
+				{
+					"@k": "name:ug",
+					"@v": "سېيشېل ئاراللىرى"
+				},
+				{
+					"@k": "name:uk",
+					"@v": "Сейшельські Острови"
+				},
+				{
+					"@k": "name:ur",
+					"@v": "سیچیلیس"
+				},
+				{
+					"@k": "name:uz",
+					"@v": "Seyshell orollari"
+				},
+				{
+					"@k": "name:vi",
+					"@v": "Seychelles"
+				},
+				{
+					"@k": "name:vls",
+					"@v": "Seychelln"
+				},
+				{
+					"@k": "name:vo",
+					"@v": "Säceluäns"
+				},
+				{
+					"@k": "name:wo",
+					"@v": "Seysel"
+				},
+				{
+					"@k": "name:yo",
+					"@v": "Ṣèíhẹ́lẹ́sì"
+				},
+				{
+					"@k": "name:zh",
+					"@v": "塞舌尔"
+				},
+				{
+					"@k": "name:zu",
+					"@v": "IsiSeyisheli"
+				},
+				{
+					"@k": "official_name:cs",
+					"@v": "Seychelská republika"
+				},
+				{
+					"@k": "timezone",
+					"@v": "Indian/Mahe"
+				},
+				{
+					"@k": "type",
+					"@v": "boundary"
+				},
+				{
+					"@k": "wikidata",
+					"@v": "Q1042"
+				},
+				{
+					"@k": "wikipedia",
+					"@v": "en:Seychelles"
+				}
+			]
+		}
+	}
+}
